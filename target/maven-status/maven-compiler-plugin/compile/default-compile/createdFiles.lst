@@ -1,0 +1,8 @@
+bot/crew/testapplicationbotcrew/AppInterfaces/CommandLineInterface.class
+bot/crew/testapplicationbotcrew/entities/Lector.class
+bot/crew/testapplicationbotcrew/entities/Degree.class
+bot/crew/testapplicationbotcrew/repositories/LectorRepository.class
+bot/crew/testapplicationbotcrew/entities/Department.class
+bot/crew/testapplicationbotcrew/TestApplicationBotCrewApplication.class
+bot/crew/testapplicationbotcrew/repositories/DepartmentRepository.class
+bot/crew/testapplicationbotcrew/services/UniversityService.class

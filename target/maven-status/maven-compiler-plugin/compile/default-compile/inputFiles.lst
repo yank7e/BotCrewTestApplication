@@ -1,0 +1,8 @@
+/Users/oleksii.kryvenko/Desktop/TestApplicationBotCrew/src/main/java/bot/crew/testapplicationbotcrew/AppInterfaces/CommandLineInterface.java
+/Users/oleksii.kryvenko/Desktop/TestApplicationBotCrew/src/main/java/bot/crew/testapplicationbotcrew/TestApplicationBotCrewApplication.java
+/Users/oleksii.kryvenko/Desktop/TestApplicationBotCrew/src/main/java/bot/crew/testapplicationbotcrew/entities/Degree.java
+/Users/oleksii.kryvenko/Desktop/TestApplicationBotCrew/src/main/java/bot/crew/testapplicationbotcrew/entities/Department.java
+/Users/oleksii.kryvenko/Desktop/TestApplicationBotCrew/src/main/java/bot/crew/testapplicationbotcrew/entities/Lector.java
+/Users/oleksii.kryvenko/Desktop/TestApplicationBotCrew/src/main/java/bot/crew/testapplicationbotcrew/repositories/DepartmentRepository.java
+/Users/oleksii.kryvenko/Desktop/TestApplicationBotCrew/src/main/java/bot/crew/testapplicationbotcrew/repositories/LectorRepository.java
+/Users/oleksii.kryvenko/Desktop/TestApplicationBotCrew/src/main/java/bot/crew/testapplicationbotcrew/services/UniversityService.java
